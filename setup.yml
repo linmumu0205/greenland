@@ -1,0 +1,8 @@
+type: msi # exe, zip, manual
+source: plsqldev1503x64.msi #放主安装包
+arguments:
+  - /quiet
+  - /norestart
+destination: C:\Program Files\PLSQL Developer 15 # 安装目录
+program: C:\Program Files\PLSQL Developer 15\plsqldev.exe # exe根目录
+md5: e84ec3345ad7619795ba015c097a6fdc #校验

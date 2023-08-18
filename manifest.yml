@@ -1,0 +1,18 @@
+name: greenland
+display_name: "{{ 'Greenland SAP ' | trans }}"
+comment:  "{{ 'Greenland Group's SAP system' | trans }}"
+version: 0.1
+exec_type: python
+author: mumu
+type: general
+update_policy: always
+tags:
+  - custom
+protocols:
+  - sap
+
+i18n:
+  Greenland Group's SAP system:
+    en: Greenland Group's SAP system
+    zh: 绿地集团内部sap系统
+    ja: グリーンランドグループの社内SAPシステム

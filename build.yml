@@ -1,0 +1,4 @@
+patch_url: https://github.com/gerry-fit/appstore-static/releases/download/plsql/plsqldev-15-patch.msi #本地安装包
+patch_md5: 9bbf600fcbb9c04568dc679c32c450c1
+source_url: https://www.allroundautomations.com/files/plsqldev1503x64.msi #补丁包
+source_md5: 9fd22bec6351cd0bcecc3901d18528c4
